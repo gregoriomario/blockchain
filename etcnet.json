@@ -1,0 +1,15 @@
+[
+  {
+    "network": "localhost",
+    "chainId": 1337,
+    "endpoints": ["http://127.0.0.1:8545"]
+  },
+  {
+    "network": "Kovan",
+    "chainId": 42,
+    "endpoints": [
+      "https://kovan.infura.io/v3/c96233b0679b462a8377b0495128c1bf",
+      "wss://kovan.infura.io/ws/v3/c96233b0679b462a8377b0495128c1bf"
+    ]
+  }
+]
